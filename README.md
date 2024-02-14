@@ -1,6 +1,7 @@
 # otopark-sayac-sistemi
-Python, opencv kullanarak otoparkta boş alanları sayıyoruz. Tkinter ile arayüz tasarımı ekledim.
+Kullanılan Teknolojiler: Python, OpenCV, Tkinter, numpy, pickle kütüphaneleri.
 ![1](https://github.com/enesyondes/otopark-sayac-sistemi/assets/91937666/a2182966-14e5-41d2-94e7-ff52cc816a80)
+
 Bu resimde gözüktüğü gibi otoparktaki boş alanları sayıyor ve bir çıktı üretiyor.
 
 Program 3 kod sayfasından oluşuyor. 
